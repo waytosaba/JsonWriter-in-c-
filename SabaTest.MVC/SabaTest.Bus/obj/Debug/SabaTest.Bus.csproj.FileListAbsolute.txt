@@ -1,0 +1,11 @@
+C:\MyWork\CodingTest\SabaTest.MVC\SabaTest.Bus\bin\Debug\SabaTest.Bus.dll
+C:\MyWork\CodingTest\SabaTest.MVC\SabaTest.Bus\bin\Debug\SabaTest.Bus.pdb
+C:\MyWork\CodingTest\SabaTest.MVC\SabaTest.Bus\bin\Debug\SabaTest.Data.Model.dll
+C:\MyWork\CodingTest\SabaTest.MVC\SabaTest.Bus\bin\Debug\SabaTest.Data.Model.pdb
+C:\MyWork\CodingTest\SabaTest.MVC\SabaTest.Bus\obj\Debug\SabaTest.Bus.csproj.AssemblyReference.cache
+C:\MyWork\CodingTest\SabaTest.MVC\SabaTest.Bus\obj\Debug\SabaTest.Bus.csproj.CoreCompileInputs.cache
+C:\MyWork\CodingTest\SabaTest.MVC\SabaTest.Bus\obj\Debug\SabaTest.Bus.csproj.CopyComplete
+C:\MyWork\CodingTest\SabaTest.MVC\SabaTest.Bus\obj\Debug\SabaTest.Bus.dll
+C:\MyWork\CodingTest\SabaTest.MVC\SabaTest.Bus\obj\Debug\SabaTest.Bus.pdb
+C:\MyWork\CodingTest\SabaTest.MVC\SabaTest.Bus\bin\Debug\Newtonsoft.Json.dll
+C:\MyWork\CodingTest\SabaTest.MVC\SabaTest.Bus\bin\Debug\Newtonsoft.Json.xml
